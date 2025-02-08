@@ -2,6 +2,7 @@
 
 
 ![Image](https://github.com/user-attachments/assets/a04da1a4-9bcb-4ed8-bd3f-ddfe0d9890c2)
+This image showcases the Dictionary App interface, featuring a simple search functionality and the display of results fetched from the API.
 
 A simple dictionary web application built with React that uses the [Dictionary API](https://api.dictionaryapi.dev/api/v2/entries/en/<word>) to fetch word definitions, phonetics, and synonyms.
 

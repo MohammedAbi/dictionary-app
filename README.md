@@ -4,6 +4,8 @@
 
 This image showcases the Dictionary App interface, featuring a simple search functionality and the display of results fetched from the API.
 
+
+## App Description
 A simple dictionary web application built with React that uses the [Dictionary API](https://api.dictionaryapi.dev/api/v2/entries/en/<word>) to fetch word definitions, phonetics, and synonyms.
 
 ## Features
